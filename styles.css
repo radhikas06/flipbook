@@ -4,6 +4,24 @@
   background-color: coral;
   color: #fff;
 }
+#img1 {
+  background-color: pink;
+}
+#img2 {
+  background-color: coral;
+}
+#img3 {
+  background-color: darkcyan;
+}
+#img4 {
+  background-color: firebrick;
+}
+#img5 {
+  background-color: aqua;
+}
+#img6 {
+  background-color: peru;
+}
 .testimonial-img {
   width: 90%;
   height: 80%;
